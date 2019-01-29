@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">StackOverFlow API</string>
+    <string name="username">Username</string>
+    <string name="reputation">Reputation</string>
+    <string name="location">Location</string>
+    <string name="badge">Badge</string>
+    <string name="value">Value</string>
 </resources>
